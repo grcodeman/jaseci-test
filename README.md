@@ -8,7 +8,7 @@ Each part of the tutorial lives in its own folder and is committed separately.
 ## Parts
 
 1. [`part1/`](part1/) — Your First Lines of Jac (syntax, types, functions, `obj`)
-2. `part2/` — Modeling Data with Nodes _(upcoming)_
+2. [`part2/`](part2/) — Modeling Data with Nodes (`node`, `root`, `++>`, filter comprehensions)
 3. `part3/` — Building the Backend API _(upcoming)_
 4. `part4/` — A Reactive Frontend _(upcoming)_
 5. `part5/` — Making It Smart with AI _(upcoming)_
